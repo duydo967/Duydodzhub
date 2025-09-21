@@ -1,7 +1,7 @@
 local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/OniiChanVanThanhIOS/refs/heads/main/main.txt"))()
 
 
-local Window = Library:CreateWindow('Duydodz hub / Ver_2')
+local Window = Library:CreateWindow('kr hub / Ver_2')
 
 local Tab = {
     Tab_1 = Window:addTab('#Home'),
@@ -114,13 +114,13 @@ end)
 
 local Home_Left = Tab.Tab_1:addSection()
 local Changelog = Home_Left:addMenu("Thông Tin")
-Changelog:addChangelog('Xin Chào Tất Cả Các Bạn ❤️')
+Changelog:addChangelog('Xin chào')
 Changelog:addChangelog('Hello Everyone ❤️')
-Changelog:addChangelog('Menu : Văn Thành IOS' )
+Changelog:addChangelog('Menu : duydo' )
 Changelog:addChangelog('Thông Tin Liên Hệ')
-Changelog:addChangelog('YTB: @thanhdzso1')
-Changelog:addChangelog('Tik Tok: @vanthanhisme_')
-Changelog:addChangelog('FB : @vanthanhisme')
+Changelog:addChangelog('')
+Changelog:addChangelog('Tik tok : Duydo_20')
+Changelog:addChangelog('FB : @duydo)
 Changelog:addChangelog('Goodbye Everyone')
 
 
