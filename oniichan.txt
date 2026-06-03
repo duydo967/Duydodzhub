@@ -119,8 +119,6 @@ Changelog:addChangelog('Hello Everyone ❤️')
 Changelog:addChangelog('Menu : duydo' )
 Changelog:addChangelog('Thông Tin Liên Hệ')
 Changelog:addChangelog('')
-Changelog:addChangelog('Tik tok : Duydo_20')
-Changelog:addChangelog('FB : @duydo)
 Changelog:addChangelog('Goodbye Everyone')
 
 
